@@ -1,8 +1,5 @@
 
 and i ma 
 vikasvs
-<<<<<<< HEAD
-i am me
-=======
 COZ ME IS ME
 >>>>>>> nextm
